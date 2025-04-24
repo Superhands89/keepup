@@ -34,7 +34,7 @@ namespace nikonkeep
         //public const string ThemesXmlUrl = "http://www.google.com";
         //public const string ThemesXmlUrl = "C:\\Users\\steve\\source\\repos\\movemouse\\Themes\\Themes_Test.xml";
         //public const string ThemesXmlUrl = "http://www.google.com";
-        public const string UpdateXmlUrl = "https://raw.githubusercontent.com/sw3103/movemouse/master/Update_4x.xml";
+        public const string UpdateXmlUrl = "";
         public const string MailAddress = "http://www.google.com";
         public const string RunRegistryValueName = "NikonPrint";
 
